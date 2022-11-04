@@ -1,0 +1,3 @@
+numero = 34999479717
+msg = bom dia 
+hora = 8.00
