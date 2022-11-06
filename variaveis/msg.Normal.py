@@ -6,7 +6,6 @@ from selenium.webdriver.common.by import By
 import pyautogui
 
 
-
 def msgWpp():
     wichPerson = input('qual pessoa voce deseja mandar mensagem?')
     txt = input('qual mensagem voce quer enviar?')
