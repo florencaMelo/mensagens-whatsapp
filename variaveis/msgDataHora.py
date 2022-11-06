@@ -2,4 +2,4 @@ import pywhatkit
 
 
 
-pywhatkit.sendwhatmsg('+5534997780017', 'oi gatinho', 23, 15)
+pywhatkit.sendwhatmsg('+5534997780017', 'oi', 23, 15)
